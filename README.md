@@ -53,6 +53,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-withFox/Code-withFox/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### ✨ Philosophy
 <p align="center">
