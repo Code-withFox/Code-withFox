@@ -30,7 +30,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,aws,docker,linux,git,github,java,js,c,cpp,html,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,linux,git,github,java,js,c,cpp,html,kafka" />
 </p>
 
 ---
