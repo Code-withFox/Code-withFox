@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code-withFox&fontSize=40&fontAlignY=35&animation=twinkling" />
+</h1>
 
-<!--
-**Code-withFox/Code-withFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineer+in+Progress;Code.+Learn.+Repeat.;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Data+Pipelines;Exploring+Data+One+Repo+at+a+Time" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🚀 **Data Engineer (Student / In Progress)**
+- 🔭 Working on **Data Engineering & Analytics Projects**
+- 🌱 Learning **Python, SQL, Git, GitHub**
+- 🤝 Open for **Data / ETL / Analytics collaborations**
+- 📫 Reach me: **Vimalkumar807733@gmail.com**
+- ⚡ Fun fact: *I think in queries 😄*
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Code-withFox"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
+  <a href="https://linkedin.com/in/vimal-kumar-data"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
+  <a href="https://instagram.com/data_withfox"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
+  <a href="https://twitter.com/vimaloff182"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,aws,docker,linux,git,github,java,js,c,cpp,html,kafka" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-withFox&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-withFox&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-withFox&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-withFox/Code-withFox/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### ✨ Philosophy
+<p align="center">
+  <i>“Data is raw. Insight is power. Code is the bridge.”</i>
+</p>
+
+<h3 align="center">⭐ Follow for more data-driven projects</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
