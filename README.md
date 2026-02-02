@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🚀 **Data Engineer (Student / In Progress)**
 - 🔭 Working on **Data Engineering & Analytics Projects**
 - 🌱 Learning **Python, SQL, Git, GitHub**
@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Code-withFox"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
   <a href="https://linkedin.com/in/vimal-kumar-data"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
@@ -28,40 +28,18 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,aws,docker,linux,git,github,java,js,c,cpp,html,kafka" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-withFox&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-withFox&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-withFox&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-withFox/Code-withFox/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-withFox/Code-withFox/output/github-contribution-grid-snake.svg" />
-</p>
-
-### ✨ Philosophy
-<p align="center">
-  <i>“Data is raw. Insight is power. Code is the bridge.”</i>
-</p>
-
-<h3 align="center">⭐ Follow for more data-driven projects</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+## 🔄 Data Pipeline Architecture
+```mermaid
+flowchart LR
+    A[📥 Data Sources] --> B[⚙️ Ingestion]
+    B --> C[🧹 Processing]
+    C --> D[🗄️ Storage]
+    D --> E[📊 Analytics]
+    E --> F[📈 Dashboards]
