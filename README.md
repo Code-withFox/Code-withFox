@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/Code-withFox"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
   <a href="https://linkedin.com/in/vimal-kumar-data"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-  <a href="https://instagram.com/data_withfox"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
+  <a href="https://instagram.com/code_withfox"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
   <a href="https://twitter.com/vimaloff182"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
 </p>
 
