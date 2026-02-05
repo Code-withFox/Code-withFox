@@ -13,7 +13,7 @@
 - 🔭 Working on **Data Engineering & Analytics Projects**
 - 🌱 Learning **Python, SQL, Git, GitHub**
 - 🤝 Open for **Data / ETL / Analytics collaborations**
-- 📫 Reach me: **Vimalkumar807733@gmail.com**
+- 📫 Reach me: **codewithfox.data@gmail.com**
 - ⚡ Fun fact: *I think in queries 😄*
 
 ---
